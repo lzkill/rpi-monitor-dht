@@ -17,6 +17,7 @@ These files may be used under the terms of the MIT License, wich a [copy](LICENS
 
 - [Python](https://www.python.org) 2.6 or greater
 - [Stem](https://stem.torproject.org) 1.2.2 or greater
+- [Adafruit DHT library](https://github.com/adafruit/Adafruit_Python_DHT)
 - [Supervisor](http://supervisord.org)
 
 ## Configuration ##
