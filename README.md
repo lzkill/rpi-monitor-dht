@@ -46,6 +46,10 @@ chown=root:supervisor
 
 If you add improvements to these files please send them to me as pull requests on GitHub. I will add them to the next release so that everyone can enjoy your work. You might also benefit from it as others may fix bugs in your files or may continue to enhance them.
 
+## Credits ##
+
+This extension contains code written by the folks at [Adafruit](https://github.com/adafruit/Adafruit_Python_DHT).
+
 ## Thanks ##
 
 With regards from
