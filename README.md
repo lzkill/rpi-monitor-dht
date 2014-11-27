@@ -5,7 +5,7 @@ The files needed to extend RPi-Monitor and show a DHT sensor data.
 
 ## Introduction ##
 
-[RPi-Monitor](http://rpi-experiences.blogspot.com.br/p/rpi-monitor.html) is a nice monitoring tool for your Raspberry Pi. It provides a web view where you can watch things such as memory, CPU and temperature. If your RPi is running a Tor relay then you can easily extend RPi-Monitor to show the temperature and humidity read by a DHT sensor.
+[RPi-Monitor](http://rpi-experiences.blogspot.com.br/p/rpi-monitor.html) is a nice monitoring tool for your Raspberry Pi. It provides a web view where you can watch things such as memory, CPU and temperature. It also can be easily extended to show the temperature and humidity read by a DHT sensor.
 
 ![Stats](https://raw.githubusercontent.com/lzkill/rpi-monitor-dht/master/stats.jpg)
 
