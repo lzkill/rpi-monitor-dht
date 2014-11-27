@@ -17,12 +17,11 @@ These files may be used under the terms of the MIT License, wich a [copy](LICENS
 
 - [Python](https://www.python.org) 2.6 or greater
 - [Stem](https://stem.torproject.org) 1.2.2 or greater
-- [Adafruit DHT library](https://github.com/adafruit/Adafruit_Python_DHT)
+- [Adafruit DHT library](https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/software-install-updated)
 - [Supervisor](http://supervisord.org)
 
 ## Configuration ##
 
-- [Install](https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/software-install-updated) the Adafruit DHT library
 - Copy [dht.conf](dht.conf) to `/etc/rpimonitor/template/`
 - Add the following line to `/etc/rpimonitor/data.conf`
 ```
